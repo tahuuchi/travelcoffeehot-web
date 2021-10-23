@@ -1,0 +1,88 @@
+[
+  {
+    "name": "error",
+    "path": "/error",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/layouts/error.vue",
+    "_name": "_b37e3f9a"
+  },
+  {
+    "name": "category-article",
+    "path": "/:category/article/:slug",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/article.vue",
+    "_name": "_35d2225c"
+  },
+  {
+    "name": "country",
+    "path": "/destinations/:country",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/destinations/country.vue",
+    "_name": "_7f33a994"
+  },
+  {
+    "name": "province",
+    "path": "/destinations/:country/:province",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/destinations/province.vue",
+    "_name": "_2ad92a80"
+  },
+  {
+    "name": "wards",
+    "path": "/destinations/:country/:province/:wards",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/destinations/wards.vue",
+    "_name": "_4f891a97"
+  },
+  {
+    "name": "article",
+    "path": "/article",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/article.vue",
+    "chunkName": "pages/article",
+    "_name": "_35d2225c"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/search.vue",
+    "chunkName": "pages/search",
+    "_name": "_968ff69c"
+  },
+  {
+    "name": "destinations-country",
+    "path": "/destinations/country",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/destinations/country.vue",
+    "chunkName": "pages/destinations/country",
+    "_name": "_7f33a994"
+  },
+  {
+    "name": "destinations-province",
+    "path": "/destinations/province",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/destinations/province.vue",
+    "chunkName": "pages/destinations/province",
+    "_name": "_2ad92a80"
+  },
+  {
+    "name": "destinations-wards",
+    "path": "/destinations/wards",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/destinations/wards.vue",
+    "chunkName": "pages/destinations/wards",
+    "_name": "_4f891a97"
+  },
+  {
+    "name": "category-id",
+    "path": "/category/:id?",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/category/_id.vue",
+    "chunkName": "pages/category/_id",
+    "_name": "_91bd939a"
+  },
+  {
+    "name": "tag-id",
+    "path": "/tag/:id?",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/tag/_id.vue",
+    "chunkName": "pages/tag/_id",
+    "_name": "_20a787ab"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Volumes/DATA2/code/2021/travelcoffeehot.com/webapp/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_19104bb8"
+  }
+]
